@@ -1,0 +1,23 @@
+[
+  {
+  "productID": "1",
+  "productName": "camisa de cuadros para mujer",
+  "cantidad": 13,
+  "price": "20"
+},
+
+  {
+  "productID": "2",
+  "productName": "pantalon azul",
+  "cantidad": 16,
+  "price": "30"
+},
+
+  {
+  "productID": "3",
+  "productName": "camiseta",
+  "cantidad": 8,
+  "price": "15"
+}
+
+]

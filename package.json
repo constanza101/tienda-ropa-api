@@ -1,0 +1,18 @@
+{
+  "name": "tienda-online",
+  "version": "1.0.0",
+  "description": "tienda online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tienda"
+  ],
+  "author": "constanza",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "express": "^4.16.4"
+  }
+}
